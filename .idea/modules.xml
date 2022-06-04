@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App.iml" filepath="$PROJECT_DIR$/.idea/modules/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/App.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/App.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/App.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/App.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/App.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/App.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/App.db.iml" filepath="$PROJECT_DIR$/.idea/modules/db/App.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/App.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/App.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/App.db.test.iml" filepath="$PROJECT_DIR$/.idea/modules/db/App.db.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App.main.iml" filepath="$PROJECT_DIR$/.idea/modules/App.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/App.service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/App.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/App.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/App.service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/App.service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/App.service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App.test.iml" filepath="$PROJECT_DIR$/.idea/modules/App.test.iml" />
+    </modules>
+  </component>
+</project>
